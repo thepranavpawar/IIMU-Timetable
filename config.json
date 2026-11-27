@@ -1,0 +1,27 @@
+{
+  "source_file_id": "1PLO6FoTlbj9aGcxJyCoWLfG0mqVrVJIo",
+  "timezone": "Asia/Kolkata",
+  "fallback_start": "2026-12-28",
+  "reminder_minutes": 10,
+  "include_events": true,
+  "people": [
+    {
+      "slug": "shivali",
+      "calendar_name": "IIMU Term-IV (Shivali)",
+      "section": "DEM",
+      "courses": ["CS", "ENTR", "AETBVC", "Fintech", "SCC", "TC"]
+    },
+    {
+      "slug": "sai-sandeep",
+      "calendar_name": "IIMU Term-IV (Sai Sandeep)",
+      "section": "DEM",
+      "courses": ["CS", "ENTR", "B2BM", "EAT", "OE", "TC"]
+    },
+    {
+      "slug": "mari",
+      "calendar_name": "IIMU Term-IV (Mari)",
+      "section": "DEM",
+      "courses": ["CS", "ENTR", "AETBVC", "DSPAE", "EAT", "Fintech"]
+    }
+  ]
+}
